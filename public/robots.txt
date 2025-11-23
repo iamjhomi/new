@@ -1,3 +1,5 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
-Disallow:
+Allow: /
+Sitemap: https://fusioncode.net/sitemap.xml
+# Replace https://fusioncode.net with your production URL if different
